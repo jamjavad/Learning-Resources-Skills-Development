@@ -20,9 +20,9 @@
 
 # Mathematics for Machine Learning
 
-• **Course:** Mathematics for Machine Learning
-• **Platform:** Faradars
-• **Status:** In Progress
+• **Course:** Mathematics for Machine Learning  
+• **Platform:** Faradars  
+• **Status:** In Progress  
 • **Progress:** Starting soon
 
 ## Topics Covered:
