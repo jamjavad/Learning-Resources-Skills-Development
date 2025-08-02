@@ -2,10 +2,10 @@
 
 # Git & GitHub Fundamentals
 
-• **Course:** Git, GitHub & GitLab Complete Guide
+• **Course:** Git, GitHub & GitLab Complete Guide  
 • **Platform:** Faradars  
-• **Instructor:** Jadi
-• **Status:** Completed
+• **Instructor:** Jadi  
+• **Status:** Completed  
 • **Progress:** Content completed, working on certification
 
 ## Topics Covered:
