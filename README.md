@@ -1,5 +1,25 @@
 # Learning-Resources-Skills-Development
 
+# Python Programming Fundamentals
+
+• **Course:** Python Programming Course  
+• **Platform:** Maktabkhooneh  
+• **Instructor:** Jadi  
+• **Status:** Completed  
+• **Progress:** Content completed, working on certification
+
+## Topics Covered:
+- Python Basics & Syntax
+- Data Types & Variables
+- Control Flow (Loops & Conditionals)
+- Functions & Modules
+- Object-Oriented Programming
+- File Handling & I/O
+- Error Handling & Debugging
+- Libraries & Packages
+
+---
+
 # Git & GitHub Fundamentals
 
 • **Course:** Git, GitHub & GitLab Complete Guide  
