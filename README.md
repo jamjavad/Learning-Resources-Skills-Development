@@ -29,18 +29,18 @@
 
 ## Topics Covered:
 
-• NumPy Basics & Introduction
-• Data Types in NumPy
-• Array Creation & Display Methods
-• Array Indexing & Slicing
-• Array Operations & Manipulations
-• Mathematical Functions & Methods
-• Array Sorting & Element Repetition
-• Vectorization & Broadcasting
-• Multi-dimensional Arrays
-• Array Comparison & Combining
-• Data Type Conversion to Arrays
-• Practical Applications & Examples
+- NumPy Basics & Introduction
+- Data Types in NumPy
+- Array Creation & Display Methods
+- Array Indexing & Slicing
+- Array Operations & Manipulations
+- Mathematical Functions & Methods
+- Array Sorting & Element Repetition
+- Vectorization & Broadcasting
+- Multi-dimensional Arrays
+- Array Comparison & Combining
+- Data Type Conversion to Arrays
+- Practical Applications & Examples
 ------
 # Git & GitHub Fundamentals
 
