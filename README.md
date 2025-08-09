@@ -18,8 +18,30 @@
 - Error Handling & Debugging
 - Libraries & Packages
 
----
+------
+# NumPy Library Fundamentals
 
+• **Course**: Numpy library tutorial
+• **Platform**: TopLearn  
+• **Instructor**: Mohammad Mahdavi
+• **Status**: Completed  
+• **Progress**: Content completed
+
+## Topics Covered:
+
+• NumPy Basics & Introduction
+• Data Types in NumPy
+• Array Creation & Display Methods
+• Array Indexing & Slicing
+• Array Operations & Manipulations
+• Mathematical Functions & Methods
+• Array Sorting & Element Repetition
+• Vectorization & Broadcasting
+• Multi-dimensional Arrays
+• Array Comparison & Combining
+• Data Type Conversion to Arrays
+• Practical Applications & Examples
+------
 # Git & GitHub Fundamentals
 
 • **Course:** Git, GitHub & GitLab Complete Guide  
@@ -36,7 +58,7 @@
 - Branch Management
 - Merge & Pull Requests
 
----
+------
 
 # Mathematics for Machine Learning
 
