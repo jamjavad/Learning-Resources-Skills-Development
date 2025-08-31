@@ -42,6 +42,29 @@
 - Data Type Conversion to Arrays
 - Practical Applications & Examples
 ------
+# Matplotlib
+
+• **Course:** Matplotlib Library for Chart Drawing in Python  
+• **Platform:** TopLearn  
+• **Instructor:** Raha Moosavi  
+• **Status:** Completed  
+• **Progress:** Content completed
+
+## Topics Covered:
+- Library Installation & Prerequisites
+- Introduction to pyplot Module & Simple Charts
+- Adding Titles & Labels for Axes and Lines
+- Bar Charts & Histograms
+- Scatter Plots
+- Stack Plots
+- Pie Charts
+- Reading Data from Files (CSV & Text)
+- Professional Chart Styling Templates
+- Grouped & Horizontal Bar Charts
+- Filling Areas Between Line Charts
+- Time Series Visualization
+- Live & Real-time Data Plotting
+------
 # Git & GitHub Fundamentals
 
 • **Course:** Git, GitHub & GitLab Complete Guide  
